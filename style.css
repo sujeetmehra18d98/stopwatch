@@ -4,10 +4,10 @@ body{
 .stopwatch{
     width: 90%;
     max-width: 600px;
-    background-image: linear-gradient(rgba(0,0,0,0.8), rgba(0,0,0,0.8)),url(images/walpaper2.jpeg);
+    background-image: linear-gradient(rgba(0,0,0,0.8), rgba(0,0,0,0.8)),url(images/wal.jpeg);
     background-size: cover;
     background-position: center;
-    text-align: center;
+    text-align: center;https://github.com/sujeetmehra18d98/stopwatch-using-js.github.io/edit/master/style.css
     padding: 40px 0;
     color: #fff;
     margin: 200px auto 0;
